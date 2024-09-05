@@ -1,4 +1,6 @@
 #  Chapter III - Desafio 01: Database Queries :rocket: :purple_heart:
+Resolução do Desafio da trilha de Node (Ignite) da Rocketseat: 
+![image](https://github.com/user-attachments/assets/4ad9b6a7-2db7-4e3a-b73d-cb79b9bf9b7a)
 
 ## :dart: Objetivo
 
